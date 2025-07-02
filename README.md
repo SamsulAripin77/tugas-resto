@@ -107,10 +107,11 @@ Contoh:
     PPN wajib ditambahkan ke total bayar akhir
 
 Contoh:
-
-    Setelah diskon: Rp 27.000
-    PPN 11% = Rp 2.970
-    Total yang harus dibayar = Rp 29.970
+```
+Setelah diskon: Rp 27.000
+PPN 11% = Rp 2.970
+Total yang harus dibayar = Rp 29.970
+```
 
 ### 🧩 Contoh Output Advance
 ```
