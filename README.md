@@ -82,7 +82,7 @@ Kembalian    : Rp 20.000
   - Tampilkan output dengan rapi dan mudah dibaca.
 
 ---
-
+<!--
 ## 🚀 Part 2: Advance
 
 Tambahkan fitur lanjutan ke dalam aplikasi:
@@ -95,9 +95,9 @@ Tambahkan fitur lanjutan ke dalam aplikasi:
 
 Contoh:
 ```
-    Total harga: Rp 30.000
-    Diskon: 10%
-    Setelah diskon: Rp 27.000
+Total harga: Rp 30.000
+Diskon: 10%
+Setelah diskon: Rp 27.000
 ```
 
 ### 2️⃣ Tambahkan Pajak (PPN)
