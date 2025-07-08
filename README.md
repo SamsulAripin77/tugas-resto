@@ -82,7 +82,7 @@ Kembalian    : Rp 20.000
   - Tampilkan output dengan rapi dan mudah dibaca.
 
 ---
-<!--
+
 ## 🚀 Part 2: Advance
 
 Tambahkan fitur lanjutan ke dalam aplikasi:
